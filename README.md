@@ -19,6 +19,6 @@
 <h2>_______________________________________________________________________________________________</h2>
      
 <div>
-   <a href =https://api.whatsapp.com/send?l=pt_BR&phone=5521965659905></a>
+   <a href =https://api.whatsapp.com/send?l=pt_BR&phone=5521965659905></a><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
  
 </div>
