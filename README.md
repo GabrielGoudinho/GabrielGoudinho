@@ -14,11 +14,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellBrum&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellBrum&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width:100%;">
 </a>
+
 </div>
 
 <h2>_______________________________________________________________________________________________</h2>
      
 <div>
    <a href =https://api.whatsapp.com/send?l=pt_BR&phone=5521965659905></a><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
+ 
+ ![Snake animation](https://github.com/GabriellBrum/GabriellBrum/blob/output/github-contribution-grid-snake.svg)
  
 </div>
